@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nev": "JavaScript",
+    "megjelenesEve": 1995,
+    "fejleszto": "Brendan Eich",
+    "nepszeruseg": 9,
+    "szin": "yellow"
+  },
+  {
+    "id": 2,
+    "nev": "Python",
+    "megjelenesEve": 1991,
+    "fejleszto": "Guido van Rossum",
+    "nepszeruseg": 10,
+    "szin": "blue"
+  },
+  {
+    "id": 3,
+    "nev": "Java",
+    "megjelenesEve": 1995,
+    "fejleszto": "James Gosling",
+    "nepszeruseg": 9,
+    "szin": "red"
+  },
+  {
+    "id": 4,
+    "nev": "C",
+    "megjelenesEve": 1972,
+    "fejleszto": "Dennis Ritchie",
+    "nepszeruseg": 8,
+    "szin": "darkblue"
+  },
+  {
+    "id": 5,
+    "nev": "C++",
+    "megjelenesEve": 1985,
+    "fejleszto": "Bjarne Stroustrup",
+    "nepszeruseg": 8,
+    "szin": "purple"
+  },
+  {
+    "id": 6,
+    "nev": "C#",
+    "megjelenesEve": 2000,
+    "fejleszto": "Anders Hejlsberg",
+    "nepszeruseg": 8,
+    "szin": "darkgreen"
+  },
+  {
+    "id": 7,
+    "nev": "PHP",
+    "megjelenesEve": 1995,
+    "fejleszto": "Rasmus Lerdorf",
+    "nepszeruseg": 7,
+    "szin": "brown"
+  },
+  {
+    "id": 8,
+    "nev": "Swift",
+    "megjelenesEve": 2014,
+    "fejleszto": "Apple",
+    "nepszeruseg": 7,
+    "szin": "orangered"
+  }
+]
